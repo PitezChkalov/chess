@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ca.watier:echechess-common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ca/watier/echechess-common/1.0-SNAPSHOT/echechess-common-1.0-20180307.223009-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ca/watier/echechess-common/1.0-SNAPSHOT/echechess-common-1.0-20180307.223009-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ca/watier/echechess-common/1.0-SNAPSHOT/echechess-common-1.0-20180307.223009-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
